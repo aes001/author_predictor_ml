@@ -1,0 +1,21 @@
+Private/
+Training Data/
+users.json
+.env
+.venv
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+Models/
+
+# Ignore latex build files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+AndreasSunardi.pdf
+*.synctex.gz
+*.toc
+*.fdb_latexmk
+*.fls
